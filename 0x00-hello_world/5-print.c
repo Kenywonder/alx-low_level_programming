@@ -1,0 +1,1 @@
+Print(word given)
