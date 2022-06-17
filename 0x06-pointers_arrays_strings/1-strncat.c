@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 * _strncat - function to concatenate based on conditional value
 * @dest: destinattion string
